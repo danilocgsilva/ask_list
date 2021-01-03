@@ -1,0 +1,2 @@
+class AskException(Exception):
+    pass
